@@ -1,3 +1,5 @@
+# DEPRECIATED : Please use this exercise instead : https://github.com/sipios/refacto-react
+
 # Refactoring Kata Test
 
 ## Introduction
